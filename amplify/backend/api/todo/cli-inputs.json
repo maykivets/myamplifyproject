@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "todo",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/al/Documents/Code/amz/amplify/myamplifyproject/amplify/backend/api/todo/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2022-12-14T14:47:10.229Z",
+      "keyDescription": "todo"
+    }
+  }
+}
